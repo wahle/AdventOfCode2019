@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/fileReader"
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/intcode"
+	"github.com/wahle/AdventOfCode2019/fileReader"
+	"github.com/wahle/AdventOfCode2019/intcode"
 )
 
 func main() {

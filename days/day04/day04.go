@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/password"
+	"github.com/wahle/AdventOfCode2019/password"
 )
 
 func main() {

@@ -3,7 +3,7 @@ DAY ?= day04
 .PHONY: build test coverage clean lint format
 
 build:
-	go build -o ${DAY} ~/GoSandbox/AdventOfCode2019/days/${DAY}
+	go build -o ${DAY} ./days/${DAY}
 
 test:
 	go test -race -v ./...

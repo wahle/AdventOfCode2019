@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/fileReader"
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/wire"
+	"github.com/wahle/AdventOfCode2019/fileReader"
+	"github.com/wahle/AdventOfCode2019/wire"
 )
 
 func main() {

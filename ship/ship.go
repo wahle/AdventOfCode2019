@@ -1,7 +1,7 @@
 package ship
 
 import (
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/module"
+	"github.com/wahle/AdventOfCode2019/module"
 )
 
 type Ship struct {

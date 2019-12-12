@@ -5,9 +5,9 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/fileReader"
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/module"
-	"github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019/ship"
+	"github.com/wahle/AdventOfCode2019/fileReader"
+	"github.com/wahle/AdventOfCode2019/module"
+	"github.com/wahle/AdventOfCode2019/ship"
 )
 
 func main() {
