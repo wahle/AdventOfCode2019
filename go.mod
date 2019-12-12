@@ -1,4 +1,4 @@
-module github.com/wahle/AdventOfCode2019https://github.com/wahle/AdventOfCode2019
+module github.com/wahle/AdventOfCode2019
 
 go 1.13
 
